@@ -16,3 +16,6 @@ expending and applying them to the things I love the most spending my time when 
 Please feel free to reach me for any professional opportunity you think I may be interested and look around my work repositories.
 
 Hope to see you soon!
+
+- 🔭 I’m currently working on [<b>paperCraftEngine</b>](https://github.com/Kassout/paperCraftEngine) & <b>several C++ open source projects</b>
+- 🌱 I’m currently learning <b>C++ game programming</b>
