@@ -17,5 +17,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently working on [<b>paperCraftEngine</b>](https://github.com/Kassout/paperCraftEngine) & <b>several C++ open source projects</b>
+- 🔭 I’m currently working on [<b>DarkOut</b>](https://github.com/Kassout/gameJam_GDN_Summer2021), post jam version! & <b>several C++ open source projects</b>
 - 🌱 I’m currently learning <b>C++ game programming</b>, <b>Pixel art</b> and <b>Game engine architectures/design patterns</b>
