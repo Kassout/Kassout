@@ -17,5 +17,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently working on <b>MiniSouls</b>, a not so dark, souls-like game.
+- 🔭 I’m currently working on [<b>SoulsLight</b>](https://github.com/Kassout/unityProject_SoulsLight_Scripts), a not so dark, souls-like game using tier-part assets.
 - 🌱 I’m currently learning <b>Advanced Unity programming</b>, <b>Pixel art</b> and <b>Game engine architectures/design patterns</b>
