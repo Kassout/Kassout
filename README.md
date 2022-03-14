@@ -17,5 +17,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently working on [<b>Really Tiny Strategies</b>](https://github.com/Kassout/unityProject_ReallyTinyStrategies_Scripts), a multiplayer, little 3D RTS game and [<b>Souls-Light</b>](https://github.com/Kassout/unityProject_SoulsLight_Scripts), a not so dark, 3D souls-like game using tier-part assets.
+- 🔭 I’m currently working on [<b>Unity Programming Techniques</b>](https://github.com/Kassout/unity_ProgrammingTechniques), a series of little projects followed from [<b>Catlike Coding</b>](https://catlikecoding.com/unity/tutorials/), to learn, use and practice on a lot of different programming techniques for games using Unity.
 - 🌱 I’m currently learning <b>Advanced Unity programming</b>, <b>Network programming</b>, and <b>Pixel art</b>.
