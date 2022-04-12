@@ -17,5 +17,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently working on [<b>Unity Programming Techniques</b>](https://github.com/Kassout/unity_ProgrammingTechniquesAndPatterns), a series of little projects followed from [<b>Catlike Coding</b>](https://catlikecoding.com/unity/tutorials/), to learn, use and practice on a lot of different programming techniques for games using Unity.
+- 🔭 I’m currently working on [<b>Rogue Lab</b>], a little rogue-like with a sci-fi ambiance and on [<b>Unity Programming Techniques</b>](https://github.com/Kassout/unity_ProgrammingTechniquesAndPatterns), a series of little projects followed from [<b>Catlike Coding</b>](https://catlikecoding.com/unity/tutorials/), to learn, use and practice on a lot of different programming techniques for games using Unity.
 - 🌱 I’m currently learning <b>Advanced Unity programming</b>, <b>Network programming</b>, and <b>Pixel art</b>.
