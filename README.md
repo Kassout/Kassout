@@ -17,5 +17,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently working on <b>Moshies Arena</b>, a FPS Multiplayer game build on Unreal Engine and on a [<b>Multiplayer Tool Plugin</b>](https://github.com/Kassout/unrealTool_MultiplayerPlugin) for Unreal Engine.
-- 🌱 I’m currently learning <b>Unreal Engine</b>, <b>Network programming</b>.
+- 🔭 I’m currently working for Siderift studio, personal projects in pending. :) 
+- 🌱 I’m currently learning <b>Network programming</b>, <b>Performance profiling</b>.
