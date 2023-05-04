@@ -16,5 +16,5 @@ Please feel free to reach me for any professional opportunity you think I may be
 
 Hope to see you soon!
 
-- 🔭 I’m currently looking for work, still giving a hands up to <b>Siderift Studio</b> making it out with <b>[Voodolls](https://store.steampowered.com/app/2144830/Voodolls/)</b>. On personal side I'm working on a <b>2D Platformer Controller template</b> following <b>[Bardent tutorial series](https://www.youtube.com/playlist?list=PLy78FINcVmjA0zDBhLuLNL1Jo6xNMMq-W)</b>
-- 🌱 I’m currently learning <b>C++</b>, <b>System design</b> and <b>Performance profiling</b>.
+- 🔭 I’m currently looking for work, still giving a hands up to <b>Siderift Studio</b> making it out with <b>[Voodolls](https://store.steampowered.com/app/2144830/Voodolls/)</b>. On personal side I'm working on a <b>2D Platformer Controller template</b> following <b>[Bardent tutorial series](https://www.youtube.com/playlist?list=PLy78FINcVmjA0zDBhLuLNL1Jo6xNMMq-W)</b>.
+- 🌱 I’m currently learning <b>C++</b>, <b>System design</b> and <b>Unreal Engine</b>.
